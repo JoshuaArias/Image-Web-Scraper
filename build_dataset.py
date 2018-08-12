@@ -35,9 +35,9 @@ import cv2
 import os
 
 FLICKR_API_KEY = '*****'
-FLICKR_API_SECRET = ''*****''
-CSE_API_KEY = ''*****''
-CSE_SEARCH_ID = ''*****'
+FLICKR_API_SECRET = '*****'
+CSE_API_KEY = '*****'
+CSE_SEARCH_ID = '*****'
 
 PATH = './test_scrape/'
 URL_TYPE = ['url_o', 'url_c', 'url_q', 'url_s', 'url_n', 'url_m', 'url_sq', 'url_t']
